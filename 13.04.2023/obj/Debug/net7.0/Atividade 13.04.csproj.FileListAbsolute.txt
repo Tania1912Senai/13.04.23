@@ -1,0 +1,15 @@
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\Atividade 13.04.csproj.AssemblyReference.cache
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\Atividade 13.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\Atividade 13.04.AssemblyInfoInputs.cache
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\Atividade 13.04.AssemblyInfo.cs
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\Atividade 13.04.csproj.CoreCompileInputs.cache
+C:\Users\1185849874\Desktop\Atividade 13.04\bin\Debug\net7.0\Atividade 13.04.exe
+C:\Users\1185849874\Desktop\Atividade 13.04\bin\Debug\net7.0\Atividade 13.04.deps.json
+C:\Users\1185849874\Desktop\Atividade 13.04\bin\Debug\net7.0\Atividade 13.04.runtimeconfig.json
+C:\Users\1185849874\Desktop\Atividade 13.04\bin\Debug\net7.0\Atividade 13.04.dll
+C:\Users\1185849874\Desktop\Atividade 13.04\bin\Debug\net7.0\Atividade 13.04.pdb
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\Atividade 13.04.dll
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\refint\Atividade 13.04.dll
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\Atividade 13.04.pdb
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\Atividade 13.04.genruntimeconfig.cache
+C:\Users\1185849874\Desktop\Atividade 13.04\obj\Debug\net7.0\ref\Atividade 13.04.dll
